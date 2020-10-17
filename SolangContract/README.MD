@@ -1,0 +1,1 @@
+Contract adress: ZM6iVnGzGpE4LRVLdxn2ziBbAdm2dYL1G6E73m8PLteHzeA
