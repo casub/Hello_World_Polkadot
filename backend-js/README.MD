@@ -1,2 +1,2 @@
-To start:
-node main.js
+To start program use:
+'node main.js'
