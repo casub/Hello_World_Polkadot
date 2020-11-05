@@ -1,0 +1,13 @@
+{
+  "name": "payouts",
+  "version": "1.0.0",
+  "description": "Simple payout calculator for KSM",
+  "main": "index.js",
+  "author": "Casub",
+  "license": "ISC",
+  "dependencies": {
+    "@substrate/api-sidecar": "^1.0.0",
+    "axios": "^0.21.0",
+    "got": "^11.8.0"
+  }
+}
