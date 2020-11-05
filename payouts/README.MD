@@ -1,1 +1,1 @@
-Usage: node index.js <account> <depth>
+Usage: node index.js account depth
